@@ -1,0 +1,6 @@
+{
+  "max_threads": 1,
+  "proxyless": true,
+  "avoid_rate_limit": false,
+  "sleep_seconds": 0.0
+}
